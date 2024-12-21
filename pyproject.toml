@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "bootube"
+version = "1.0.0"
+authors = [
+  { name="B0-B", email="alch3mist94@protonmail.com" },
+]
+description = "YouTube Restriction Bypass Tool"
+readme = "README.md"
+requires-python = ">=3.10.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
+dependencies = [
+  "pyautogui>=0.9.54",
+  "pygetwindow>=0.0.9",
+  "pyperclip>=1.8.2",
+  "pynput>=1.7.6"
+]
+
+[project.urls]
+Homepage = ""
+Examples = ""
+Latest = ""
