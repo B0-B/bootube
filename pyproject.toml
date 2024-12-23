@@ -23,6 +23,6 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = ""
+Homepage = "https://b0-b.github.io/bootube/"
 Examples = ""
 Latest = ""
